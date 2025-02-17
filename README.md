@@ -58,6 +58,4 @@ check--whatever
 
 additional functions can be added if required.
 
-Whether these scripts are any good to you is up to you, but they are currently being used to start and stop applications on schedule for some UK NHS systems so they aren't without any testing.
 
-Good Luck
